@@ -3,7 +3,7 @@
 A complete **Hospital Management System** built using **PHP, MySQL, HTML5, CSS3, JavaScript, and Bootstrap**. The system is designed to simplify hospital operations by managing patients, doctors, appointments, departments, laboratory records, and administrative tasks through a secure, role-based web application.
 
 🌐 **Live Demo:**  
-https://mednetwork.kesug.com/
+https://[mednetwork.kesug.com/](http://mednetwork.atwebpages.com/)
 
 ---
 
