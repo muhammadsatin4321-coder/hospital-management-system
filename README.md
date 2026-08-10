@@ -2,8 +2,12 @@
 
 A complete **Hospital Management System** built using **PHP, MySQL, HTML5, CSS3, JavaScript, and Bootstrap**. The system is designed to simplify hospital operations by managing patients, doctors, appointments, departments, laboratory records, and administrative tasks through a secure, role-based web application.
 
-🌐 **Live Demo:**  
-https://[mednetwork.kesug.com/](http://mednetwork.atwebpages.com/)
+## 🌐 Project Preview
+
+🔗 [View Hospital Management System](https://muhammadsatin4321-coder.github.io/hospital-management-system/)
+
+> ⚠️ The PHP/MySQL live demo is currently unavailable.  
+> The project source code is available in this repository.
 
 ---
 
