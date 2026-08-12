@@ -263,11 +263,7 @@ http://localhost/Hospital-Management-System
 
 ---
 
-# 📷 Live Demo
 
-🌐 https://mednetwork.kesug.com/
-
----
 
 # 👨‍💻 Author
 
